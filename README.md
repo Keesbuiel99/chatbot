@@ -1,0 +1,27 @@
+<p>Here at Microinsurance we continue to explore blockchain, the world of “a smart contracts”. It is our current belief that ‘smart contracts’ will be the core insurance uses-case for blockchain. Why is this? Because the MAIN thing that people buy when they take out insurance is a contract. Nothing more – insurance is a contract to pay if a set of events occur in the future and is within the bounds of said contract.</p>
+
+<p>Today, there is nothing wrong with the contracts that insurance companies use, well they are wordy and fully of small print, allow for ambiguity and generally need lawyers and administrators to navigate the many escape routes that are built in. So to introduce 'smart contracts' into the process takes tech and investment - two things that the insurance industry is slow to do.</p>
+
+<p>Insurance contracts should, on the face of it, be very simple. They should ensure that each party is dealt with fairly and each party receives and gives what they thought when it was signed. There are many instances where insurance companies fight claims and slow down payments. This is where smart contracts can fulfill a need. Welcome to the world of smart contracts, these contracts don’t leave the chance for interpretations. For insurance they enable so many benefits.</p>
+
+<p>The use of these contracts are now linked to the rise of blockchain and a change in technology and process that is still very young for many companies and, in many cases, at a pre-Proof of Concept (POC) stage in insurance companies.</p>
+
+<p>The use of <b><a href="http://www.blog.microinsurance.com/post/insurance-blockchain-oracles">blockchain</a> </b>in insurance is the tech game changer that is needed within the industry to bring straight through processing advantages to insurers and brokers. Smart contracts will, eventually, be used for sharing economy, gig economy, IoT and platform insurance. Making the process very transactional. </p>
+
+<p>The main idea behind the use of ‘smart’ in smart contracts is to use tech coding to determine the relations and obligations between parties and automatically administer these clauses and relationships. The contracts make possible to exchange money, property, shares, or basically anything of value in a transparent and non-conflicting way.</p>
+
+<p>Basically, the smart contracts have the trust built in. Add this to the idea of a decentralized blockchain network and you can start to see the power of these contacts within the insurance industry, especially around parametric and transactional insurance. The conflict of ambiguity is removed. The power of speed and volume enhanced.</p>
+
+<p>The term “smart contract” is widely associated with Ethereum or IBM. Currently the Ethereum smart contracts are the most popular. However, it is possible to create smart contracts on other Blockchain platforms.</p>
+
+<p>In 2018, a US Senate report said: "While smart contracts might sound new, the concept is rooted in basic contract law. Usually, the judicial system adjudicates contractual disputes and enforces terms, but it is also common to have another arbitration method, especially for international transactions. With smart contracts, a program enforces the contract built into the code."</p>
+
+<p>Other forms of smart contracts are Ricardian contracts. This form of contract maybe more relevant to the insurance industry. A definition, from its creator, says a Ricardian contract is “a digital contract that deﬁnes the terms and conditions of an interaction, between two or more peers, that is cryptographically signed and veriﬁed. Importantly it is both human and machine readable and digitally signed”. This definition makes it very usable for insurance where both parties may want to use the contract from time to time.</p>
+
+<p>A Ricardian contract registers a legally valid and digitally connected document to a certain object or value. A Ricardian contract places all information from the legal document in a format that can be executed by software. In this way it is both a legal agreement between parties and a protocol that integrates an agreement offering a high level of security because of cryptographic identification.</p>
+
+<p>With a smart contract, a person could, for instance, have a hurricane insurance policy contract that is encoded in the <b><a href="http://blog.microinsurance.com/post/insurance-blockchain-oracles">block chain</a></b> in the form of a set of rules.</p>
+
+<p>In case of the hurricane coming, the smart contract could then automatically transfer the claim money to the beneficiary. The Insurer may provide additional constraints, such as enabling the transfer only when the hurricane reaches certain intensity and tracks to a location within certain parameters etc.</p>
+
+<p>Since smart contracts’ conditions are based on data stored in the blockchain, they need only to rely on external services, which take data from the “real” world (e.g., from hurricane tracking and location tech) and push them to the blockchain (or vice versa). These services are referred to as “oracles”. By considering this example, an oracle could inspect the presence of a hurricane’s track and intensity to identify whether the person/company (Insured) is eligible for a pay-out. This eligibility could also test against claims materials instantly read on the blockchain such as invoices or other records. This would then trigger an instant, automatic, payment.</p>
